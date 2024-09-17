@@ -14,7 +14,7 @@ Future<void> addToWishlist(BuildContext context, Product product) async {
         context: context,
         builder: (BuildContext context) {
           return AlertDialog(
-            title: Text('${product.name}è già nella Wishlist'),
+            title: Text('${product.name} è già nella Wishlist'),
             actions: [
               TextButton(
                 onPressed: () => Navigator.of(context).pop(),
