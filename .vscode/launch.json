@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "flutter_application_14(Flutter emulator 3)",
+        "request": "launch",
+        "type": "dart",
+        "flutterMode": "debug",
+        "program": "lib/main.dart"
+      }
+    ]
+  }
+  
